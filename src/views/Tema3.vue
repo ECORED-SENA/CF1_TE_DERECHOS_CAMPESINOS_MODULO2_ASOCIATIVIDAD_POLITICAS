@@ -75,19 +75,19 @@
 
                 .tarjeta.color-primario.p-3(x="10%" y="30%" numero="+")
                   .h5.mb-2 Debilidades 
-                  p Limitaciones internas que dificultan el desarrollo (ej. falta de maquinaria, escasa formación administrativa).
+                  p Limitaciones internas que dificultan el desarrollo (ej. Falta de maquinaria, escasa formación administrativa).
 
                 .tarjeta.color-primario.p-3(x="90%" y="30%" numero="+")
                   .h5.mb-2 Amenazas  	 
-                  p Factores externos que representan riesgos o desafíos (ej. inestabilidad climática, competencia desleal).
+                  p Factores externos que representan riesgos o desafíos (ej. Inestabilidad climática, competencia desleal).
 
                 .tarjeta.color-primario.p-3(x="10%" y="70%" numero="+")
                   .h5.mb-2 Fortalezas 	 
-                  p Capacidades y recursos internos que permiten a los asociados cumplir sus objetivos (ej. experiencia, liderazgo, producción diversificada).
+                  p Capacidades y recursos internos que permiten a los asociados cumplir sus objetivos (ej. Experiencia, liderazgo, producción diversificada).
 
                 .tarjeta.color-primario.p-3(x="90%" y="70%" numero="+")
                   .h5.mb-2 Oportunidades  
-                  p Factores externos favorables que pueden aprovecharse para mejorar el desempeño (ej. demanda creciente, apoyo institucional).
+                  p Factores externos favorables que pueden aprovecharse para mejorar el desempeño (ej. Demanda creciente, apoyo institucional).
 
           .row.align-items-center.mt-5
             .col-lg-4.d-lg-block.d-none
@@ -97,8 +97,7 @@
 
               .row.p-3.bg-13.r8.align-items-center
                 .col-lg-12
-                  p.px-4 
-                    La importancia de la matriz DOFA en una asociación son: 
+                  p.px-4 La importancia de la matriz DOFA en una asociación son: 
 
                   ul.lista-ul--color.mt-2.p-4
                     li.d-flex.align-items-start.p-1.bg-18
@@ -118,7 +117,7 @@
                       p.mb-0 Orienta acciones concretas en áreas como producción, comercialización, capacitación y alianzas.
 
 
-          .titulo-tres.mt-5: h3 Ejemplo práctico: Matriz DOFA         
+          .titulo-tres.mt-5: h3 Ejemplo práctico. Matriz DOFA         
 
           p.mt-4 A modo de ejemplo práctico, se expone la matriz DOFA aplicada a la Asociación de Mujeres Campesinas ASOES San Luis. Este ejercicio permite identificar las capacidades internas y los factores del entorno que inciden en el fortalecimiento organizativo, productivo y comercial de la asociación. El análisis proporciona una base estratégica para diseñar acciones orientadas al aprovechamiento de oportunidades, el fortalecimiento de las fortalezas y la superación de desafíos.
 
@@ -621,7 +620,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-2")
           .row(titulo="A.	Número de miembros activos	")
 
-            p.px-5.mb-0 Evalúa cuántos socios participan de manera efectiva en actividades, asambleas y toma de decisiones. No basta con estar inscritos, la clave está en el nivel de compromiso y permanencia. 
+            p.px-5.mb-0 Evalúa cuántos socios participan de manera efectiva en actividades, asambleas y toma de decisiones. No basta con estar inscritos; la clave está en el nivel de compromiso y permanencia. 
             p.px-5 #[b Ejemplo de meta:] 80% de participación activa en reuniones y actividades anuales.
 
           div(titulo="B.	Participación democrática y equitativa")

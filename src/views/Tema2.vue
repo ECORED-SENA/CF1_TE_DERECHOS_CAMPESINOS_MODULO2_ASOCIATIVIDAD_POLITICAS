@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`,'margin-right': '-10px'}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La asociatividad representa una estrategia clave para fortalecer a los pequeños productores rurales, especialmente frente a los desafíos que enfrentan en sus actividades diarias. Problemas como los bajos precios de venta, el alto costo de los insumos, las limitaciones técnicas, las barreras para acceder a créditos y las dificultades en la comercialización y movilidad de productos, impactan directamente en la sostenibilidad de sus proyectos.
+        p.mb-0 La asociatividad representa una estrategia clave para fortalecer a los pequeños productores rurales, especialmente frente a los desafíos que enfrentan en sus actividades diarias. Problemas como los bajos precios de venta, el alto costo de los insumos, las limitaciones técnicas, las barreras para acceder a créditos y las dificultades en la comercialización y movilidad de productos impactan directamente en la sostenibilidad de sus proyectos.
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
@@ -42,7 +42,7 @@
               img(src='@/assets/curso/tema2/img3.png', alt='', style="width: 270px").m-auto
           .col-lg-7
             p(style="color:black")
-              Lo invitamos a escuchar el siguiente Pódcast:
+              Lo invitamos a escuchar el siguiente pódcast:
 
             TarjetaAudio.color-acento-botones.mb-3.bg-9.p-3(
               texto="Ventajas de la asociatividad en el desarrollo rural "

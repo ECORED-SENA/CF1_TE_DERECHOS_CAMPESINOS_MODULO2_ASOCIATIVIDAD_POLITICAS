@@ -47,7 +47,7 @@ export default {
               id: 'c',
               texto:
                 'La asociatividad rural es la organización voluntaria de productores rurales para unir esfuerzos, compartir recursos y trabajar en conjunto con el fin de mejorar su producción, comercialización y calidad de vida.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'd',
@@ -69,7 +69,7 @@ export default {
               id: 'a',
               texto:
                 'Porque permite a los pequeños productores enfrentar juntos los desafíos del mercado y fortalecer su posición frente a compradores y políticas públicas.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',

@@ -128,14 +128,14 @@
     
               .col-lg.d-flex
                 .p-4.w-100.d-flex.align-items-center
-                  p.mb-0 Al integrarse en una red empresarial dentro de una cadena productiva, se accede a un sistema de colaboración estratégica entre empresas con intereses comunes. Esta red facilita la optimización de recursos, el acceso a nuevos mercados y la cooperación entre actores que, en vez de competir individualmente, actúan coordinadamente para fortalecer cada eslabón de la cadena
+                  p.mb-0 Al integrarse en una red empresarial dentro de una cadena productiva, se accede a un sistema de colaboración estratégica entre empresas con intereses comunes. Esta red facilita la optimización de recursos, el acceso a nuevos mercados y la cooperación entre actores que, en vez de competir individualmente, actúan coordinadamente para fortalecer cada eslabón de la cadena.
 
       .col-lg-5.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema1/img10.png', alt='', style="width: 610px").m-auto      
 
 
-    .p-4.r8.bg-2 Un ejemplo exitoso es el caso del #[b sector cafetero en Colombia], donde cooperativas y alianzas entre productores, tostadores, exportadores y comercializadores han logrado posicionar el café colombiano como uno de los más reconocidos en el mundo. Gracias a esta articulación, se ha mejorado la calidad del producto, incrementado los ingresos y fortalecido la presencia internacional del sector.
+    .p-4.r8.bg-2 Un ejemplo exitoso es el caso del #[b sector cafetero en Colombia], donde cooperativas y alianzas entre productores, tostadores, exportadores y comercializadores han logrado posicionar el café Colombiano como uno de los más reconocidos en el mundo. Gracias a esta articulación, se ha mejorado la calidad del producto, incrementado los ingresos y fortalecido la presencia internacional del sector.
           
 </template>
 

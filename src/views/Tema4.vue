@@ -18,7 +18,7 @@
     .row.bg-14
       .col-12
         .p-5
-          .titulo-tres.mt-5: h3 Caso: Asociación ASOES San Luis — Vereda Guarigua Alto
+          .titulo-tres.mt-5: h3 Caso. Asociación ASOES San Luis — Vereda Guarigua Alto
 
           .row.mt-2.align-items-center
             .col-lg-9 

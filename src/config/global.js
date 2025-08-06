@@ -210,7 +210,7 @@ export default {
         'conjunto organizado y secuencial de actividades económicas que transforman insumos o materias primas en productos finales, con valor agregado, listos para el consumo o comercialización. Estas actividades incluyen desde la producción primaria hasta la distribución final, e involucran a múltiples actores interrelacionados.',
     },
     {
-      termino: 'Canales de comercialización:',
+      termino: 'Canales de comercialización',
       significado:
         'rutas o medios por los cuales los productos llegan del productor al consumidor, directa o indirectamente.',
     },
