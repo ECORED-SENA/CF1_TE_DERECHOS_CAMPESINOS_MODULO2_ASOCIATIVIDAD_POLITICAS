@@ -48,7 +48,7 @@
                 span Actores de la cadena productiva 
 
               figure
-                img(src='@/assets/curso/tema1/img3.svg', alt='', style="width: 610px").m-auto
+                img(src='@/assets/curso/tema1/img3.svg', alt='Diagrama sobre los actores de la cadena productiva que incluye productores, transformadores, comercializadores y consumidores, con flechas que indican el flujo entre ellos y la participación de proveedores de servicios a lo largo del proceso. ', style="width: 610px").m-auto
 
             .col-lg-3.d-lg-block.d-none.mt-4
               figure
