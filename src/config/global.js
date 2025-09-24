@@ -51,7 +51,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Consumidores',
+            titulo: 'Redes empresariales',
             hash: 't_1_3',
           },
         ],
@@ -228,11 +228,6 @@ export default {
       termino: 'Redes empresariales',
       significado:
         'sistemas de colaboración voluntaria entre varias empresas, organizaciones o productores que deciden trabajar en conjunto para alcanzar objetivos comunes, sin perder su independencia jurídica. A través de estas redes, los participantes comparten información, recursos, conocimientos, mercados y estrategias para mejorar su competitividad y sostenibilidad.',
-    },
-    {
-      termino: 'Alianza productiva',
-      significado:
-        'acuerdo entre productores, el sector privado y el Estado para fortalecer la producción y comercialización conjunta.',
     },
   ],
   referencias: [

@@ -16,7 +16,7 @@
  
           .col-lg.d-flex
             .p-4.w-100.d-flex.align-items-center
-              p.mb-0 Este componente formativo busca explicar, de manera sencilla y práctica, los aspectos más importantes para llevar un manejo correcto de la nómina en el contexto rural. Se abordarán temas como las obligaciones laborales, el manejo de novedades de nómina, la correcta liquidación de salarios, la aplicación de normativas técnicas y la importancia de sistematizar la información. Todo está pensado para brindar herramientas claras, aplicables en el día a día de los empleadores campesinos, fortaleciendo así el trabajo digno y la productividad del campo.
+              p.mb-0 En el contexto del desarrollo rural y agroempresarial, comprender ciertos conceptos fundamentales es clave para entender cómo se organizan los actores, se estructuran los procesos productivos y se generan relaciones colaborativas. A continuación se abordan dos nociones esenciales: la asociatividad y las cadenas productivas.
 
     .row.bg-4
       .col-12
@@ -48,7 +48,7 @@
                 span Actores de la cadena productiva 
 
               figure
-                img(src='@/assets/curso/tema1/img3.svg', alt='Diagrama sobre los actores de la cadena productiva que incluye productores, transformadores, comercializadores y consumidores, con flechas que indican el flujo entre ellos y la participación de proveedores de servicios a lo largo del proceso. ', style="width: 610px").m-auto
+                img(src='@/assets/curso/tema1/img3.svg', alt='Diagrama sobre los actores de la cadena productiva que incluye productores, transformadores, comercializadores y consumidores, con flechas que indican el flujo entre ellos y la participación de proveedores de servicios a lo largo del proceso.', style="width: 610px").m-auto
 
             .col-lg-3.d-lg-block.d-none.mt-4
               figure
@@ -113,7 +113,7 @@
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3 Consumidores	      
+      h2 1.3 Redes empresariales	      
 
     .row.align-items-center
       .col-lg-7

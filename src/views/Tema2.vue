@@ -224,7 +224,7 @@
             figure
               img(src="@/assets/curso/tema2/img18.svg", alt="", style="width: 100px").m-auto
           .col-lg-10
-            p Así como un buen agricultor conoce el momento exacto en que sembró cada semilla y espera su cosecha, un buen empleador campesino debe tener claridad sobre lo que ocurre con sus trabajadores durante el mes. Registrar las novedades no es una carga, es una forma de construir confianza, respeto y justicia en el trabajo rural.
+            p Para superar estos obstáculos es fundamental #[b formarse, planificar con visión a largo plazo, promover la transparencia y mantener una comunicación clara y constante] entre todos los miembros de la asociación.
 
 
 </template>

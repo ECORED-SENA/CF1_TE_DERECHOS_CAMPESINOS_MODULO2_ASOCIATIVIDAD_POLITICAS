@@ -426,6 +426,51 @@
                   figure
                     img(src='@/assets/curso/tema3/img19.png')
 
+              .row.p-5(titulo="")
+                .col-md-7.mb-4.mb-md-0
+                  p
+                    b Organización del grupo
+
+                  ul.lista-ul--color.mt-2
+                    li.d-flex.align-items-start
+                      span.icono-img
+                      p.mb-0 Conformar un comité promotor o grupo gestor responsable del proceso inicial.
+
+                    li.d-flex.align-items-start
+                      span.icono-img
+                      p.mb-0 Definir la misión, visión y objetivos que guiarán a la futura asociación.
+
+                    li.d-flex.align-items-start
+                      span.icono-img
+                      p.mb-0 Identificar las actividades productivas, comerciales o sociales que se impulsarán en la primera etapa.
+
+
+                .col-md-5
+                  figure
+                    img(src='@/assets/curso/tema3/img21.png')
+
+              .row.p-5(titulo="")
+                .col-md-7.mb-4.mb-md-0
+                  p
+                    b Elaboración de estatutos y normativas
+
+                  ul.lista-ul--color.mt-2
+                    li.d-flex.align-items-start
+                      span.icono-img
+                      p.mb-0 Redactar los estatutos de la asociación, incluyendo: nombre, domicilio, objeto, órganos directivos, funciones, derechos y deberes de los miembros.
+
+                    li.d-flex.align-items-start
+                      span.icono-img
+                      p.mb-0 Discutir el borrador del documento con todos los interesados, ajustándolo colectivamente.
+
+                    li.d-flex.align-items-start
+                      span.icono-img
+                      p.mb-0 Acordar un reglamento interno de funcionamiento que oriente la vida cotidiana de la organización.
+
+                .col-md-5
+                  figure
+                    img(src='@/assets/curso/tema3/img23.png')
+
 
               .row.p-5(titulo="")
                 .col-md-7.mb-4.mb-md-0
@@ -462,28 +507,7 @@
                     img(src='@/assets/curso/tema3/img20.png')
 
 
-              .row.p-5(titulo="")
-                .col-md-7.mb-4.mb-md-0
-                  p
-                    b Organización del grupo
-
-                  ul.lista-ul--color.mt-2
-                    li.d-flex.align-items-start
-                      span.icono-img
-                      p.mb-0 Conformar un comité promotor o grupo gestor responsable del proceso inicial.
-
-                    li.d-flex.align-items-start
-                      span.icono-img
-                      p.mb-0 Definir la misión, visión y objetivos que guiarán a la futura asociación.
-
-                    li.d-flex.align-items-start
-                      span.icono-img
-                      p.mb-0 Identificar las actividades productivas, comerciales o sociales que se impulsarán en la primera etapa.
-
-
-                .col-md-5
-                  figure
-                    img(src='@/assets/curso/tema3/img21.png')
+              
 
 
               .row.p-5(titulo="")
@@ -516,27 +540,7 @@
                     img(src='@/assets/curso/tema3/img22.png')
 
 
-              .row.p-5(titulo="")
-                .col-md-7.mb-4.mb-md-0
-                  p
-                    b Elaboración de estatutos y normativas
-
-                  ul.lista-ul--color.mt-2
-                    li.d-flex.align-items-start
-                      span.icono-img
-                      p.mb-0 Redactar los estatutos de la asociación, incluyendo: nombre, domicilio, objeto, órganos directivos, funciones, derechos y deberes de los miembros.
-
-                    li.d-flex.align-items-start
-                      span.icono-img
-                      p.mb-0 Discutir el borrador del documento con todos los interesados, ajustándolo colectivamente.
-
-                    li.d-flex.align-items-start
-                      span.icono-img
-                      p.mb-0 Acordar un reglamento interno de funcionamiento que oriente la vida cotidiana de la organización.
-
-                .col-md-5
-                  figure
-                    img(src='@/assets/curso/tema3/img23.png')
+              
 
 
     .titulo-tres.mt-5: h3 Recursos necesarios
@@ -554,19 +558,19 @@
             ul.lista-ul--color.mt-2.p-4
               li.d-flex.align-items-start.p-1.bg-18
                 span.icono-img
-                p.mb-0 Permite diagnosticar la situación actual de forma participativa.
+                p.mb-0 Facilitadores o técnicos con experiencia en asociatividad rural.
 
               li.d-flex.align-items-start.p-1.bg-18
                 span.icono-img
-                p.mb-0 Facilita la definición de estrategias a corto, mediano y largo plazo.
+                p.mb-0 Espacios físicos adecuados para la realización de reuniones, talleres y asambleas.
 
               li.d-flex.align-items-start.p-1.bg-18
                 span.icono-img
-                p.mb-0 Fortalece la gestión colectiva y la toma de decisiones.
+                p.mb-0 Materiales didácticos, papelería y equipos básicos de apoyo.
 
               li.d-flex.align-items-start.p-1.bg-18
                 span.icono-img
-                p.mb-0 Orienta acciones concretas en áreas como producción, comercialización, capacitación y alianzas.
+                p.mb-0 Asesoría legal y contable para garantizar el cumplimiento normativo en la etapa de formalización.
 
 
     .titulo-tres.mt-5: h3 Evaluación y seguimiento
@@ -621,7 +625,7 @@
           .row(titulo="A.	Número de miembros activos	")
 
             p.px-5.mb-0 Evalúa cuántos socios participan de manera efectiva en actividades, asambleas y toma de decisiones. No basta con estar inscritos; la clave está en el nivel de compromiso y permanencia. 
-            p.px-5 #[b Ejemplo de meta:] 80% de participación activa en reuniones y actividades anuales.
+            p.px-5 #[b Ejemplo de meta:] 80 % de participación activa en reuniones y actividades anuales.
 
           div(titulo="B.	Participación democrática y equitativa")
 
